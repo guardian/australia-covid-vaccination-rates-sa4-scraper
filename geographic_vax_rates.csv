@@ -1,0 +1,179 @@
+,State,SA4,At_least_one_dos_15,Fully_vaccinated_15,date
+0,Australian Capital Territory,Australian Capital Territory,50.1%,25.9%,2021-08-09
+1,New South Wales,Capital Region,50.0%,21.9%,2021-08-09
+2,New South Wales,Central Coast,49.4%,23.3%,2021-08-09
+3,New South Wales,Central West,43.1%,20.1%,2021-08-09
+4,New South Wales,Coffs Harbour - Grafton,44.4%,17.8%,2021-08-09
+5,New South Wales,Far West and Orana,36.9%,16.3%,2021-08-09
+6,New South Wales,Hunter Valley exc Newcastle,40.6%,17.0%,2021-08-09
+7,New South Wales,Illawarra,46.7%,24.7%,2021-08-09
+8,New South Wales,Mid North Coast,49.2%,21.6%,2021-08-09
+9,New South Wales,Murray,48.3%,20.3%,2021-08-09
+10,New South Wales,New England and North West,41.0%,18.1%,2021-08-09
+11,New South Wales,Newcastle and Lake Macquarie,44.4%,20.3%,2021-08-09
+12,New South Wales,Richmond - Tweed,42.5%,20.0%,2021-08-09
+13,New South Wales,Riverina,46.2%,22.2%,2021-08-09
+14,New South Wales,Southern Highlands and Shoalhaven,54.0%,26.6%,2021-08-09
+15,New South Wales,Sydney - Baulkham Hills and Hawkesbury,56.0%,30.2%,2021-08-09
+16,New South Wales,Sydney - Blacktown,45.6%,23.4%,2021-08-09
+17,New South Wales,Sydney - City and Inner South,40.8%,23.3%,2021-08-09
+18,New South Wales,Sydney - Eastern Suburbs,49.3%,28.4%,2021-08-09
+19,New South Wales,Sydney - Inner South West,39.0%,19.1%,2021-08-09
+20,New South Wales,Sydney - Inner West,47.5%,27.0%,2021-08-09
+21,New South Wales,Sydney - North Sydney and Hornsby,57.6%,32.0%,2021-08-09
+22,New South Wales,Sydney - Northern Beaches,53.7%,25.6%,2021-08-09
+23,New South Wales,Sydney - Outer South West,44.8%,21.7%,2021-08-09
+24,New South Wales,Sydney - Outer West and Blue Mountains,43.9%,21.1%,2021-08-09
+25,New South Wales,Sydney - Parramatta,40.2%,21.2%,2021-08-09
+26,New South Wales,Sydney - Ryde,51.3%,28.0%,2021-08-09
+27,New South Wales,Sydney - South West,38.6%,17.9%,2021-08-09
+28,New South Wales,Sydney - Sutherland,55.0%,26.9%,2021-08-09
+29,Northern Territory,Darwin,45.9%,27.3%,2021-08-09
+30,Northern Territory,Northern Territory - Outback,35.6%,23.8%,2021-08-09
+31,Queensland,Brisbane - East,43.8%,20.9%,2021-08-09
+32,Queensland,Brisbane - North,44.3%,25.2%,2021-08-09
+33,Queensland,Brisbane - South,41.1%,23.8%,2021-08-09
+34,Queensland,Brisbane - West,49.3%,28.7%,2021-08-09
+35,Queensland,Brisbane Inner City,43.3%,25.7%,2021-08-09
+36,Queensland,Cairns,41.7%,24.2%,2021-08-09
+37,Queensland,Darling Downs - Maranoa,39.2%,19.6%,2021-08-09
+38,Queensland,Central Queensland,33.0%,17.1%,2021-08-09
+39,Queensland,Gold Coast,37.2%,20.7%,2021-08-09
+40,Queensland,Ipswich,34.3%,18.2%,2021-08-09
+41,Queensland,Logan - Beaudesert,31.2%,15.5%,2021-08-09
+42,Queensland,Mackay - Isaac - Whitsunday,29.8%,12.0%,2021-08-09
+43,Queensland,Moreton Bay - North,42.4%,22.1%,2021-08-09
+44,Queensland,Moreton Bay - South,40.0%,21.3%,2021-08-09
+45,Queensland,Queensland - Outback,28.5%,18.5%,2021-08-09
+46,Queensland,Sunshine Coast,45.5%,24.4%,2021-08-09
+47,Queensland,Toowoomba,39.9%,21.1%,2021-08-09
+48,Queensland,Townsville,38.8%,21.7%,2021-08-09
+49,Queensland,Wide Bay,42.4%,21.3%,2021-08-09
+50,South Australia,Adelaide - Central and Hills,48.0%,26.1%,2021-08-09
+51,South Australia,Adelaide - North,37.3%,17.8%,2021-08-09
+52,South Australia,Adelaide - South,48.5%,26.1%,2021-08-09
+53,South Australia,Adelaide - West,38.5%,19.5%,2021-08-09
+54,South Australia,Barossa - Yorke - Mid North,40.5%,18.1%,2021-08-09
+55,South Australia,South Australia - Outback,38.0%,19.7%,2021-08-09
+56,South Australia,South Australia - South East,40.3%,19.6%,2021-08-09
+57,Tasmania,Hobart,53.3%,29.1%,2021-08-09
+58,Tasmania,Launceston and North East,52.4%,30.8%,2021-08-09
+59,Tasmania,South East,48.3%,22.8%,2021-08-09
+60,Tasmania,West and North West,45.1%,23.4%,2021-08-09
+61,Victoria,Ballarat,50.3%,26.6%,2021-08-09
+62,Victoria,Bendigo,54.8%,28.9%,2021-08-09
+63,Victoria,Geelong,53.6%,30.3%,2021-08-09
+64,Victoria,Hume,52.7%,23.7%,2021-08-09
+65,Victoria,Latrobe - Gippsland,50.8%,24.2%,2021-08-09
+66,Victoria,Melbourne - Inner,39.8%,22.4%,2021-08-09
+67,Victoria,Melbourne - Inner East,50.1%,26.3%,2021-08-09
+68,Victoria,Melbourne - Inner South,51.4%,26.8%,2021-08-09
+69,Victoria,Melbourne - North East,41.8%,21.1%,2021-08-09
+70,Victoria,Melbourne - North West,36.7%,17.7%,2021-08-09
+71,Victoria,Melbourne - Outer East,46.2%,21.6%,2021-08-09
+72,Victoria,Melbourne - South East,38.4%,18.6%,2021-08-09
+73,Victoria,Melbourne - West,37.2%,18.6%,2021-08-09
+74,Victoria,Mornington Peninsula,50.3%,24.2%,2021-08-09
+75,Victoria,North West,48.1%,22.8%,2021-08-09
+76,Victoria,Shepparton,48.2%,22.5%,2021-08-09
+77,Victoria,Warrnambool and South West,54.5%,27.5%,2021-08-09
+78,Western Australia,Bunbury,41.4%,19.0%,2021-08-09
+79,Western Australia,Mandurah,42.4%,20.2%,2021-08-09
+80,Western Australia,Perth - Inner,51.6%,29.9%,2021-08-09
+81,Western Australia,Perth - North East,36.6%,17.0%,2021-08-09
+82,Western Australia,Perth - North West,41.6%,20.1%,2021-08-09
+83,Western Australia,Perth - South East,37.2%,18.2%,2021-08-09
+84,Western Australia,Perth - South West,40.6%,20.8%,2021-08-09
+85,Western Australia,Western Australia - Wheat Belt,39.4%,17.6%,2021-08-09
+86,Western Australia,Western Australia - Outback (North),19.5%,9.9%,2021-08-09
+87,Western Australia,Western Australia - Outback (South),32.0%,15.4%,2021-08-09
+88,Other Territories,Other Territories,46.2%,27.3%,2021-08-09
+89,Australian Capital Territory,Australian Capital Territory,46.8%,22.7%,2021-08-02
+90,New South Wales,Capital Region,46.8%,17.9%,2021-08-02
+91,New South Wales,Central Coast,45.0%,19.6%,2021-08-02
+92,New South Wales,Central West,40.4%,16.7%,2021-08-02
+93,New South Wales,Coffs Harbour - Grafton,41.7%,14.6%,2021-08-02
+94,New South Wales,Far West and Orana,34.1%,13.4%,2021-08-02
+95,New South Wales,Hunter Valley exc Newcastle,37.5%,14.1%,2021-08-02
+96,New South Wales,Illawarra,42.6%,21.3%,2021-08-02
+97,New South Wales,Mid North Coast,45.5%,17.5%,2021-08-02
+98,New South Wales,Murray,45.0%,16.7%,2021-08-02
+99,New South Wales,New England and North West,38.2%,15.1%,2021-08-02
+100,New South Wales,Newcastle and Lake Macquarie,41.3%,17.7%,2021-08-02
+101,New South Wales,Richmond - Tweed,39.7%,17.2%,2021-08-02
+102,New South Wales,Riverina,43.5%,18.7%,2021-08-02
+103,New South Wales,Southern Highlands and Shoalhaven,50.5%,22.0%,2021-08-02
+104,New South Wales,Sydney - Baulkham Hills and Hawkesbury,49.8%,25.5%,2021-08-02
+105,New South Wales,Sydney - Blacktown,39.7%,19.8%,2021-08-02
+106,New South Wales,Sydney - City and Inner South,36.2%,19.7%,2021-08-02
+107,New South Wales,Sydney - Eastern Suburbs,44.8%,23.9%,2021-08-02
+108,New South Wales,Sydney - Inner South West,33.5%,16.1%,2021-08-02
+109,New South Wales,Sydney - Inner West,42.4%,22.8%,2021-08-02
+110,New South Wales,Sydney - North Sydney and Hornsby,51.9%,26.9%,2021-08-02
+111,New South Wales,Sydney - Northern Beaches,47.7%,20.9%,2021-08-02
+112,New South Wales,Sydney - Outer South West,38.7%,17.8%,2021-08-02
+113,New South Wales,Sydney - Outer West and Blue Mountains,39.1%,17.9%,2021-08-02
+114,New South Wales,Sydney - Parramatta,35.1%,17.7%,2021-08-02
+115,New South Wales,Sydney - Ryde,45.7%,23.3%,2021-08-02
+116,New South Wales,Sydney - South West,33.1%,14.6%,2021-08-02
+117,New South Wales,Sydney - Sutherland,48.9%,22.5%,2021-08-02
+118,Northern Territory,Darwin,43.0%,24.1%,2021-08-02
+119,Northern Territory,Northern Territory - Outback,34.3%,22.2%,2021-08-02
+120,Queensland,Brisbane - East,40.2%,17.3%,2021-08-02
+121,Queensland,Brisbane - North,41.4%,21.1%,2021-08-02
+122,Queensland,Brisbane - South,37.8%,20.6%,2021-08-02
+123,Queensland,Brisbane - West,46.2%,24.5%,2021-08-02
+124,Queensland,Brisbane Inner City,40.3%,21.9%,2021-08-02
+125,Queensland,Cairns,39.1%,21.2%,2021-08-02
+126,Queensland,Darling Downs - Maranoa,36.9%,15.3%,2021-08-02
+127,Queensland,Central Queensland,30.3%,14.7%,2021-08-02
+128,Queensland,Gold Coast,34.4%,18.0%,2021-08-02
+129,Queensland,Ipswich,31.8%,15.7%,2021-08-02
+130,Queensland,Logan - Beaudesert,28.5%,13.2%,2021-08-02
+131,Queensland,Mackay - Isaac - Whitsunday,27.1%,10.2%,2021-08-02
+132,Queensland,Moreton Bay - North,39.5%,18.5%,2021-08-02
+133,Queensland,Moreton Bay - South,37.0%,17.5%,2021-08-02
+134,Queensland,Queensland - Outback,26.3%,16.1%,2021-08-02
+135,Queensland,Sunshine Coast,42.6%,21.2%,2021-08-02
+136,Queensland,Toowoomba,37.2%,18.0%,2021-08-02
+137,Queensland,Townsville,36.3%,19.1%,2021-08-02
+138,Queensland,Wide Bay,38.7%,18.4%,2021-08-02
+139,South Australia,Adelaide - Central and Hills,45.5%,22.4%,2021-08-02
+140,South Australia,Adelaide - North,34.4%,15.4%,2021-08-02
+141,South Australia,Adelaide - South,46.1%,22.8%,2021-08-02
+142,South Australia,Adelaide - West,35.9%,16.7%,2021-08-02
+143,South Australia,Barossa - Yorke - Mid North,38.1%,15.4%,2021-08-02
+144,South Australia,South Australia - Outback,35.8%,16.9%,2021-08-02
+145,South Australia,South Australia - South East,38.4%,17.1%,2021-08-02
+146,Tasmania,Hobart,50.8%,25.3%,2021-08-02
+147,Tasmania,Launceston and North East,50.1%,27.0%,2021-08-02
+148,Tasmania,South East,46.5%,19.1%,2021-08-02
+149,Tasmania,West and North West,42.0%,21.8%,2021-08-02
+150,Victoria,Ballarat,48.1%,23.5%,2021-08-02
+151,Victoria,Bendigo,52.6%,25.1%,2021-08-02
+152,Victoria,Geelong,51.4%,25.9%,2021-08-02
+153,Victoria,Hume,49.9%,19.9%,2021-08-02
+154,Victoria,Latrobe - Gippsland,48.8%,20.8%,2021-08-02
+155,Victoria,Melbourne - Inner,37.7%,19.7%,2021-08-02
+156,Victoria,Melbourne - Inner East,47.7%,22.4%,2021-08-02
+157,Victoria,Melbourne - Inner South,49.0%,23.1%,2021-08-02
+158,Victoria,Melbourne - North East,39.8%,17.8%,2021-08-02
+159,Victoria,Melbourne - North West,34.7%,15.6%,2021-08-02
+160,Victoria,Melbourne - Outer East,43.9%,18.3%,2021-08-02
+161,Victoria,Melbourne - South East,36.4%,16.0%,2021-08-02
+162,Victoria,Melbourne - West,34.8%,16.5%,2021-08-02
+163,Victoria,Mornington Peninsula,48.0%,20.4%,2021-08-02
+164,Victoria,North West,45.7%,19.4%,2021-08-02
+165,Victoria,Shepparton,46.0%,19.3%,2021-08-02
+166,Victoria,Warrnambool and South West,51.6%,23.0%,2021-08-02
+167,Western Australia,Bunbury,39.0%,15.8%,2021-08-02
+168,Western Australia,Mandurah,40.7%,16.9%,2021-08-02
+169,Western Australia,Perth - Inner,48.9%,25.5%,2021-08-02
+170,Western Australia,Perth - North East,34.2%,14.0%,2021-08-02
+171,Western Australia,Perth - North West,39.1%,16.5%,2021-08-02
+172,Western Australia,Perth - South East,35.0%,15.1%,2021-08-02
+173,Western Australia,Perth - South West,38.5%,17.3%,2021-08-02
+174,Western Australia,Western Australia - Wheat Belt,36.9%,15.1%,2021-08-02
+175,Western Australia,Western Australia - Outback (North),18.2%,8.6%,2021-08-02
+176,Western Australia,Western Australia - Outback (South),29.8%,13.3%,2021-08-02
+177,Other Territories,Other Territories,44.1%,15.8%,2021-08-02
