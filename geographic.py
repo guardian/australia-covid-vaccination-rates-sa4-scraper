@@ -72,7 +72,7 @@ merge = pd.concat(dataframes, ignore_index=True)
 
 merge['At_least_one_dose_15'] = merge['At_least_one_dose_15'].str.rstrip('%').astype('float') /100
 merge['Fully_vaccinated_15'] = merge['Fully_vaccinated_15'].str.rstrip('%').astype('float') /100
-merge.to_csv('geographic_vax_rates.csv')
+merge.to_csv('geographic_vax_rates.csv', index=False)
 
 
 print("Done. PDFs scraped")
