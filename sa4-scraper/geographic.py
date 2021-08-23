@@ -33,7 +33,7 @@ for url in urls:
 		file.close()
 
 new_files = os.listdir("pdfs/")
-
+print(new_files)
 def is_number(s):
     try:
         float(s)
@@ -65,7 +65,8 @@ def readPDF(filename):
 
 dataframes = []
 
-for file in new_files:	
+for file in new_files:
+	print("scraping", file)	
 	dataframes.append(readPDF("pdfs/" + file))
 
 merge = pd.concat(dataframes, ignore_index=True)
@@ -75,7 +76,7 @@ merge['Fully_vaccinated_15'] = merge['Fully_vaccinated_15'].str.rstrip('%').asty
 
 merge['At_least_one_dose_15'] = merge['At_least_one_dose_15'].round(3)
 merge['Fully_vaccinated_15'] = merge['Fully_vaccinated_15'].round(3)
-
+merge.sort_values('date', inplace=True)
 merge.to_csv('geographic_vax_rates.csv', index=False)
 
 
