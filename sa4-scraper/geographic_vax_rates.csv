@@ -1,103 +1,104 @@
 State,SA4,At_least_one_dose_15,Fully_vaccinated_15,date
+Australian Capital Territory,Australian Capital Territory,0.468,0.227,2021-08-02
+Victoria,Latrobe - Gippsland,0.488,0.208,2021-08-02
+Victoria,Hume,0.499,0.199,2021-08-02
+Victoria,Geelong,0.514,0.259,2021-08-02
+Victoria,Bendigo,0.526,0.251,2021-08-02
+Victoria,Ballarat,0.481,0.235,2021-08-02
+Tasmania,West and North West,0.42,0.218,2021-08-02
+Tasmania,South East,0.465,0.191,2021-08-02
+Tasmania,Launceston and North East,0.501,0.27,2021-08-02
+Victoria,Melbourne - Inner,0.377,0.197,2021-08-02
+Tasmania,Hobart,0.508,0.253,2021-08-02
+South Australia,South Australia - Outback,0.358,0.169,2021-08-02
+South Australia,Barossa - Yorke - Mid North,0.381,0.154,2021-08-02
+South Australia,Adelaide - West,0.359,0.167,2021-08-02
+South Australia,Adelaide - South,0.461,0.228,2021-08-02
+South Australia,Adelaide - North,0.344,0.154,2021-08-02
+South Australia,Adelaide - Central and Hills,0.455,0.224,2021-08-02
+Queensland,Wide Bay,0.387,0.184,2021-08-02
+Queensland,Townsville,0.363,0.191,2021-08-02
+South Australia,South Australia - South East,0.384,0.171,2021-08-02
+Victoria,Melbourne - Inner East,0.477,0.224,2021-08-02
+Victoria,Melbourne - Inner South,0.49,0.231,2021-08-02
+Victoria,Melbourne - North East,0.398,0.178,2021-08-02
 Other Territories,Other Territories,0.441,0.158,2021-08-02
-New South Wales,Sydney - Outer South West,0.387,0.178,2021-08-02
-New South Wales,Sydney - Outer West and Blue Mountains,0.391,0.179,2021-08-02
-New South Wales,Sydney - Parramatta,0.351,0.177,2021-08-02
-New South Wales,Sydney - Ryde,0.457,0.233,2021-08-02
-New South Wales,Sydney - South West,0.331,0.146,2021-08-02
-New South Wales,Sydney - Sutherland,0.489,0.225,2021-08-02
-Northern Territory,Darwin,0.43,0.241,2021-08-02
-Northern Territory,Northern Territory - Outback,0.343,0.222,2021-08-02
-New South Wales,Sydney - Northern Beaches,0.477,0.209,2021-08-02
-Queensland,Brisbane - East,0.402,0.173,2021-08-02
-Queensland,Brisbane - South,0.378,0.206,2021-08-02
-Queensland,Brisbane - West,0.462,0.245,2021-08-02
-Queensland,Brisbane Inner City,0.403,0.219,2021-08-02
-Queensland,Cairns,0.391,0.212,2021-08-02
-Queensland,Darling Downs - Maranoa,0.369,0.153,2021-08-02
-Queensland,Central Queensland,0.303,0.147,2021-08-02
-Queensland,Gold Coast,0.344,0.18,2021-08-02
-Queensland,Ipswich,0.318,0.157,2021-08-02
-Queensland,Brisbane - North,0.414,0.211,2021-08-02
+Western Australia,Western Australia - Outback (South),0.298,0.133,2021-08-02
+Western Australia,Western Australia - Outback (North),0.182,0.086,2021-08-02
+Western Australia,Western Australia - Wheat Belt,0.369,0.151,2021-08-02
+Western Australia,Perth - South West,0.385,0.173,2021-08-02
+Western Australia,Perth - South East,0.35,0.151,2021-08-02
+Western Australia,Perth - North West,0.391,0.165,2021-08-02
+Western Australia,Perth - North East,0.342,0.14,2021-08-02
+Western Australia,Perth - Inner,0.489,0.255,2021-08-02
+Western Australia,Mandurah,0.407,0.169,2021-08-02
+Western Australia,Bunbury,0.39,0.158,2021-08-02
+Victoria,Warrnambool and South West,0.516,0.23,2021-08-02
+Victoria,Shepparton,0.46,0.193,2021-08-02
+Victoria,North West,0.457,0.194,2021-08-02
+Victoria,Mornington Peninsula,0.48,0.204,2021-08-02
+Victoria,Melbourne - West,0.348,0.165,2021-08-02
+Victoria,Melbourne - South East,0.364,0.16,2021-08-02
+Victoria,Melbourne - Outer East,0.439,0.183,2021-08-02
+Victoria,Melbourne - North West,0.347,0.156,2021-08-02
+Queensland,Toowoomba,0.372,0.18,2021-08-02
+Queensland,Sunshine Coast,0.426,0.212,2021-08-02
+New South Wales,Capital Region,0.468,0.179,2021-08-02
+Queensland,Moreton Bay - South,0.37,0.175,2021-08-02
 New South Wales,Sydney - Inner West,0.424,0.228,2021-08-02
 New South Wales,Sydney - Inner South West,0.335,0.161,2021-08-02
 New South Wales,Sydney - Eastern Suburbs,0.448,0.239,2021-08-02
-Western Australia,Western Australia - Outback (South),0.298,0.133,2021-08-02
-Australian Capital Territory,Australian Capital Territory,0.468,0.227,2021-08-02
-New South Wales,Capital Region,0.468,0.179,2021-08-02
-New South Wales,Central Coast,0.45,0.196,2021-08-02
-New South Wales,Central West,0.404,0.167,2021-08-02
-New South Wales,Coffs Harbour - Grafton,0.417,0.146,2021-08-02
-New South Wales,Far West and Orana,0.341,0.134,2021-08-02
-New South Wales,Hunter Valley exc Newcastle,0.375,0.141,2021-08-02
-New South Wales,Illawarra,0.426,0.213,2021-08-02
-New South Wales,Mid North Coast,0.455,0.175,2021-08-02
-New South Wales,Murray,0.45,0.167,2021-08-02
-New South Wales,New England and North West,0.382,0.151,2021-08-02
-New South Wales,Newcastle and Lake Macquarie,0.413,0.177,2021-08-02
-New South Wales,Richmond - Tweed,0.397,0.172,2021-08-02
-New South Wales,Riverina,0.435,0.187,2021-08-02
-New South Wales,Southern Highlands and Shoalhaven,0.505,0.22,2021-08-02
-New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.498,0.255,2021-08-02
-New South Wales,Sydney - Blacktown,0.397,0.198,2021-08-02
 New South Wales,Sydney - City and Inner South,0.362,0.197,2021-08-02
-Queensland,Logan - Beaudesert,0.285,0.132,2021-08-02
-Queensland,Mackay - Isaac - Whitsunday,0.271,0.102,2021-08-02
-New South Wales,Sydney - North Sydney and Hornsby,0.519,0.269,2021-08-02
-Queensland,Moreton Bay - South,0.37,0.175,2021-08-02
-Victoria,Melbourne - Inner South,0.49,0.231,2021-08-02
-Victoria,Melbourne - North East,0.398,0.178,2021-08-02
-Victoria,Melbourne - North West,0.347,0.156,2021-08-02
-Victoria,Melbourne - Outer East,0.439,0.183,2021-08-02
-Victoria,Melbourne - South East,0.364,0.16,2021-08-02
-Victoria,Melbourne - West,0.348,0.165,2021-08-02
-Victoria,Mornington Peninsula,0.48,0.204,2021-08-02
-Victoria,North West,0.457,0.194,2021-08-02
-Victoria,Shepparton,0.46,0.193,2021-08-02
-Victoria,Warrnambool and South West,0.516,0.23,2021-08-02
-Western Australia,Bunbury,0.39,0.158,2021-08-02
-Western Australia,Mandurah,0.407,0.169,2021-08-02
-Western Australia,Perth - Inner,0.489,0.255,2021-08-02
-Western Australia,Perth - North East,0.342,0.14,2021-08-02
-Western Australia,Perth - North West,0.391,0.165,2021-08-02
-Western Australia,Perth - South East,0.35,0.151,2021-08-02
-Western Australia,Perth - South West,0.385,0.173,2021-08-02
-Western Australia,Western Australia - Wheat Belt,0.369,0.151,2021-08-02
-Queensland,Moreton Bay - North,0.395,0.185,2021-08-02
-Victoria,Melbourne - Inner East,0.477,0.224,2021-08-02
-Victoria,Melbourne - Inner,0.377,0.197,2021-08-02
-Western Australia,Western Australia - Outback (North),0.182,0.086,2021-08-02
+New South Wales,Sydney - Blacktown,0.397,0.198,2021-08-02
+New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.498,0.255,2021-08-02
+New South Wales,Southern Highlands and Shoalhaven,0.505,0.22,2021-08-02
 Queensland,Queensland - Outback,0.263,0.161,2021-08-02
-Victoria,Latrobe - Gippsland,0.488,0.208,2021-08-02
-Queensland,Sunshine Coast,0.426,0.212,2021-08-02
-Queensland,Toowoomba,0.372,0.18,2021-08-02
-Queensland,Townsville,0.363,0.191,2021-08-02
-Queensland,Wide Bay,0.387,0.184,2021-08-02
-South Australia,Adelaide - Central and Hills,0.455,0.224,2021-08-02
-South Australia,Adelaide - South,0.461,0.228,2021-08-02
-South Australia,Adelaide - West,0.359,0.167,2021-08-02
-South Australia,Barossa - Yorke - Mid North,0.381,0.154,2021-08-02
-South Australia,Adelaide - North,0.344,0.154,2021-08-02
-South Australia,South Australia - South East,0.384,0.171,2021-08-02
-Tasmania,Hobart,0.508,0.253,2021-08-02
-Tasmania,Launceston and North East,0.501,0.27,2021-08-02
-Victoria,Hume,0.499,0.199,2021-08-02
-Tasmania,South East,0.465,0.191,2021-08-02
-Tasmania,West and North West,0.42,0.218,2021-08-02
-Victoria,Ballarat,0.481,0.235,2021-08-02
-Victoria,Bendigo,0.526,0.251,2021-08-02
-Victoria,Geelong,0.514,0.259,2021-08-02
-South Australia,South Australia - Outback,0.358,0.169,2021-08-02
+New South Wales,Richmond - Tweed,0.397,0.172,2021-08-02
+New South Wales,Newcastle and Lake Macquarie,0.413,0.177,2021-08-02
+New South Wales,New England and North West,0.382,0.151,2021-08-02
+New South Wales,Murray,0.45,0.167,2021-08-02
+New South Wales,Mid North Coast,0.455,0.175,2021-08-02
+New South Wales,Illawarra,0.426,0.213,2021-08-02
+New South Wales,Hunter Valley exc Newcastle,0.375,0.141,2021-08-02
+New South Wales,Far West and Orana,0.341,0.134,2021-08-02
+New South Wales,Coffs Harbour - Grafton,0.417,0.146,2021-08-02
+New South Wales,Central West,0.404,0.167,2021-08-02
+New South Wales,Central Coast,0.45,0.196,2021-08-02
+New South Wales,Sydney - North Sydney and Hornsby,0.519,0.269,2021-08-02
+New South Wales,Sydney - Northern Beaches,0.477,0.209,2021-08-02
+New South Wales,Riverina,0.435,0.187,2021-08-02
+New South Wales,Sydney - Outer West and Blue Mountains,0.391,0.179,2021-08-02
+New South Wales,Sydney - Outer South West,0.387,0.178,2021-08-02
+Queensland,Moreton Bay - North,0.395,0.185,2021-08-02
+Queensland,Mackay - Isaac - Whitsunday,0.271,0.102,2021-08-02
+Queensland,Logan - Beaudesert,0.285,0.132,2021-08-02
+Queensland,Ipswich,0.318,0.157,2021-08-02
+Queensland,Gold Coast,0.344,0.18,2021-08-02
+Queensland,Darling Downs - Maranoa,0.369,0.153,2021-08-02
+Queensland,Cairns,0.391,0.212,2021-08-02
+Queensland,Brisbane Inner City,0.403,0.219,2021-08-02
+Queensland,Central Queensland,0.303,0.147,2021-08-02
+Queensland,Brisbane - South,0.378,0.206,2021-08-02
+Queensland,Brisbane - West,0.462,0.245,2021-08-02
+New South Wales,Sydney - Ryde,0.457,0.233,2021-08-02
+New South Wales,Sydney - South West,0.331,0.146,2021-08-02
+New South Wales,Sydney - Sutherland,0.489,0.225,2021-08-02
+New South Wales,Sydney - Parramatta,0.351,0.177,2021-08-02
+Northern Territory,Northern Territory - Outback,0.343,0.222,2021-08-02
+Queensland,Brisbane - East,0.402,0.173,2021-08-02
+Queensland,Brisbane - North,0.414,0.211,2021-08-02
+Northern Territory,Darwin,0.43,0.241,2021-08-02
 Tasmania,Hobart,0.533,0.291,2021-08-09
-Tasmania,Launceston and North East,0.524,0.308,2021-08-09
-Tasmania,South East,0.483,0.228,2021-08-09
+Victoria,Hume,0.527,0.237,2021-08-09
 Victoria,Geelong,0.536,0.303,2021-08-09
-Victoria,Ballarat,0.503,0.266,2021-08-09
 Victoria,Bendigo,0.548,0.289,2021-08-09
-South Australia,South Australia - South East,0.403,0.196,2021-08-09
+Victoria,Ballarat,0.503,0.266,2021-08-09
 Tasmania,West and North West,0.451,0.234,2021-08-09
-South Australia,South Australia - Outback,0.38,0.197,2021-08-09
-Queensland,Queensland - Outback,0.285,0.185,2021-08-09
+Tasmania,South East,0.483,0.228,2021-08-09
+Tasmania,Launceston and North East,0.524,0.308,2021-08-09
+South Australia,South Australia - South East,0.403,0.196,2021-08-09
+Queensland,Sunshine Coast,0.455,0.244,2021-08-09
+South Australia,Barossa - Yorke - Mid North,0.405,0.181,2021-08-09
 South Australia,Adelaide - West,0.385,0.195,2021-08-09
 South Australia,Adelaide - South,0.485,0.261,2021-08-09
 South Australia,Adelaide - North,0.373,0.178,2021-08-09
@@ -105,13 +106,11 @@ South Australia,Adelaide - Central and Hills,0.48,0.261,2021-08-09
 Queensland,Wide Bay,0.424,0.213,2021-08-09
 Queensland,Townsville,0.388,0.217,2021-08-09
 Queensland,Toowoomba,0.399,0.211,2021-08-09
-Queensland,Sunshine Coast,0.455,0.244,2021-08-09
-Victoria,Hume,0.527,0.237,2021-08-09
-South Australia,Barossa - Yorke - Mid North,0.405,0.181,2021-08-09
+South Australia,South Australia - Outback,0.38,0.197,2021-08-09
 Victoria,Latrobe - Gippsland,0.508,0.242,2021-08-09
-Victoria,Shepparton,0.482,0.225,2021-08-09
-Victoria,Melbourne - Inner East,0.501,0.263,2021-08-09
 Western Australia,Western Australia - Outback (South),0.32,0.154,2021-08-09
+Victoria,Melbourne - Inner East,0.501,0.263,2021-08-09
+Queensland,Queensland - Outback,0.285,0.185,2021-08-09
 Western Australia,Western Australia - Outback (North),0.195,0.099,2021-08-09
 Western Australia,Western Australia - Wheat Belt,0.394,0.176,2021-08-09
 Western Australia,Perth - South West,0.406,0.208,2021-08-09
@@ -120,8 +119,9 @@ Western Australia,Perth - North West,0.416,0.201,2021-08-09
 Western Australia,Perth - North East,0.366,0.17,2021-08-09
 Western Australia,Perth - Inner,0.516,0.299,2021-08-09
 Western Australia,Mandurah,0.424,0.202,2021-08-09
+Victoria,Melbourne - Inner,0.398,0.224,2021-08-09
 Western Australia,Bunbury,0.414,0.19,2021-08-09
-Victoria,Warrnambool and South West,0.545,0.275,2021-08-09
+Victoria,Shepparton,0.482,0.225,2021-08-09
 Victoria,North West,0.481,0.228,2021-08-09
 Victoria,Mornington Peninsula,0.503,0.242,2021-08-09
 Victoria,Melbourne - West,0.372,0.186,2021-08-09
@@ -130,11 +130,10 @@ Victoria,Melbourne - Outer East,0.462,0.216,2021-08-09
 Victoria,Melbourne - North West,0.367,0.177,2021-08-09
 Victoria,Melbourne - North East,0.418,0.211,2021-08-09
 Victoria,Melbourne - Inner South,0.514,0.268,2021-08-09
-Victoria,Melbourne - Inner,0.398,0.224,2021-08-09
+Victoria,Warrnambool and South West,0.545,0.275,2021-08-09
 Queensland,Moreton Bay - South,0.4,0.213,2021-08-09
-Other Territories,Other Territories,0.462,0.273,2021-08-09
+New South Wales,Sydney - Northern Beaches,0.537,0.256,2021-08-09
 Queensland,Mackay - Isaac - Whitsunday,0.298,0.12,2021-08-09
-New South Wales,Sydney - Eastern Suburbs,0.493,0.284,2021-08-09
 New South Wales,Sydney - City and Inner South,0.408,0.233,2021-08-09
 New South Wales,Sydney - Blacktown,0.456,0.234,2021-08-09
 New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.56,0.302,2021-08-09
@@ -143,8 +142,8 @@ New South Wales,Riverina,0.462,0.222,2021-08-09
 New South Wales,Richmond - Tweed,0.425,0.2,2021-08-09
 New South Wales,Newcastle and Lake Macquarie,0.444,0.203,2021-08-09
 New South Wales,New England and North West,0.41,0.181,2021-08-09
+New South Wales,Sydney - Eastern Suburbs,0.493,0.284,2021-08-09
 New South Wales,Murray,0.483,0.203,2021-08-09
-New South Wales,Mid North Coast,0.492,0.216,2021-08-09
 New South Wales,Illawarra,0.467,0.247,2021-08-09
 New South Wales,Hunter Valley exc Newcastle,0.406,0.17,2021-08-09
 New South Wales,Far West and Orana,0.369,0.163,2021-08-09
@@ -152,21 +151,21 @@ New South Wales,Coffs Harbour - Grafton,0.444,0.178,2021-08-09
 New South Wales,Central West,0.431,0.201,2021-08-09
 New South Wales,Central Coast,0.494,0.233,2021-08-09
 New South Wales,Capital Region,0.5,0.219,2021-08-09
+Other Territories,Other Territories,0.462,0.273,2021-08-09
+New South Wales,Mid North Coast,0.492,0.216,2021-08-09
 Queensland,Moreton Bay - North,0.424,0.221,2021-08-09
 New South Wales,Sydney - Inner South West,0.39,0.191,2021-08-09
-New South Wales,Sydney - Inner West,0.475,0.27,2021-08-09
-Australian Capital Territory,Australian Capital Territory,0.501,0.259,2021-08-09
-New South Wales,Sydney - Northern Beaches,0.537,0.256,2021-08-09
+New South Wales,Sydney - North Sydney and Hornsby,0.576,0.32,2021-08-09
 Queensland,Logan - Beaudesert,0.312,0.155,2021-08-09
 Queensland,Ipswich,0.343,0.182,2021-08-09
 Queensland,Gold Coast,0.372,0.207,2021-08-09
 Queensland,Central Queensland,0.33,0.171,2021-08-09
 Queensland,Darling Downs - Maranoa,0.392,0.196,2021-08-09
-New South Wales,Sydney - North Sydney and Hornsby,0.576,0.32,2021-08-09
+Queensland,Cairns,0.417,0.242,2021-08-09
 Queensland,Brisbane Inner City,0.433,0.257,2021-08-09
 Queensland,Brisbane - West,0.493,0.287,2021-08-09
+New South Wales,Sydney - Inner West,0.475,0.27,2021-08-09
 Queensland,Brisbane - South,0.411,0.238,2021-08-09
-Queensland,Cairns,0.417,0.242,2021-08-09
 Queensland,Brisbane - East,0.438,0.209,2021-08-09
 Northern Territory,Northern Territory - Outback,0.356,0.238,2021-08-09
 Northern Territory,Darwin,0.459,0.273,2021-08-09
@@ -175,31 +174,34 @@ New South Wales,Sydney - South West,0.386,0.179,2021-08-09
 New South Wales,Sydney - Ryde,0.513,0.28,2021-08-09
 New South Wales,Sydney - Parramatta,0.402,0.212,2021-08-09
 New South Wales,Sydney - Outer West and Blue Mountains,0.439,0.211,2021-08-09
-Queensland,Brisbane - North,0.443,0.252,2021-08-09
 New South Wales,Sydney - Outer South West,0.448,0.217,2021-08-09
-New South Wales,Sydney - Sutherland,0.616,0.321,2021-08-16
-New South Wales,Sydney - South West,0.466,0.219,2021-08-16
-New South Wales,Sydney - Ryde,0.574,0.324,2021-08-16
-New South Wales,Sydney - Northern Beaches,0.601,0.304,2021-08-16
-New South Wales,Sydney - Outer West and Blue Mountains,0.511,0.25,2021-08-16
+Queensland,Brisbane - North,0.443,0.252,2021-08-09
+Australian Capital Territory,Australian Capital Territory,0.501,0.259,2021-08-09
+Western Australia,Western Australia - Outback (South),0.344,0.178,2021-08-16
+Other Territories,Other Territories,0.474,0.287,2021-08-16
 New South Wales,Sydney - Outer South West,0.518,0.258,2021-08-16
+Australian Capital Territory,Australian Capital Territory,0.532,0.299,2021-08-16
+New South Wales,Sydney - Outer West and Blue Mountains,0.511,0.25,2021-08-16
 New South Wales,Sydney - Parramatta,0.477,0.248,2021-08-16
+New South Wales,Sydney - Ryde,0.574,0.324,2021-08-16
+New South Wales,Sydney - South West,0.466,0.219,2021-08-16
+New South Wales,Sydney - Sutherland,0.616,0.321,2021-08-16
 Northern Territory,Darwin,0.498,0.306,2021-08-16
-Queensland,Gold Coast,0.397,0.24,2021-08-16
+Northern Territory,Northern Territory - Outback,0.373,0.261,2021-08-16
+New South Wales,Sydney - Northern Beaches,0.601,0.304,2021-08-16
 Queensland,Brisbane - East,0.474,0.245,2021-08-16
-Queensland,Brisbane - North,0.476,0.286,2021-08-16
 Queensland,Brisbane - South,0.445,0.269,2021-08-16
-Queensland,Brisbane - West,0.529,0.326,2021-08-16
 Queensland,Brisbane Inner City,0.467,0.291,2021-08-16
 Queensland,Cairns,0.454,0.275,2021-08-16
 Queensland,Darling Downs - Maranoa,0.432,0.226,2021-08-16
 Queensland,Central Queensland,0.352,0.192,2021-08-16
+Queensland,Gold Coast,0.397,0.24,2021-08-16
 Queensland,Ipswich,0.373,0.21,2021-08-16
-Northern Territory,Northern Territory - Outback,0.373,0.261,2021-08-16
-New South Wales,Sydney - North Sydney and Hornsby,0.633,0.372,2021-08-16
-New South Wales,Richmond - Tweed,0.458,0.232,2021-08-16
-New South Wales,Sydney - Inner South West,0.466,0.229,2021-08-16
 Queensland,Logan - Beaudesert,0.339,0.18,2021-08-16
+Queensland,Brisbane - North,0.476,0.286,2021-08-16
+Queensland,Mackay - Isaac - Whitsunday,0.328,0.142,2021-08-16
+New South Wales,Sydney - North Sydney and Hornsby,0.633,0.372,2021-08-16
+New South Wales,Sydney - Inner South West,0.466,0.229,2021-08-16
 New South Wales,Capital Region,0.535,0.261,2021-08-16
 New South Wales,Central Coast,0.553,0.275,2021-08-16
 New South Wales,Central West,0.467,0.238,2021-08-16
@@ -207,20 +209,21 @@ New South Wales,Coffs Harbour - Grafton,0.477,0.214,2021-08-16
 New South Wales,Far West and Orana,0.422,0.192,2021-08-16
 New South Wales,Hunter Valley exc Newcastle,0.456,0.213,2021-08-16
 New South Wales,Illawarra,0.513,0.287,2021-08-16
-New South Wales,Sydney - Inner West,0.535,0.311,2021-08-16
 New South Wales,Mid North Coast,0.528,0.26,2021-08-16
-New South Wales,New England and North West,0.456,0.218,2021-08-16
+New South Wales,Sydney - Inner West,0.535,0.311,2021-08-16
+New South Wales,Murray,0.514,0.24,2021-08-16
 New South Wales,Newcastle and Lake Macquarie,0.5,0.248,2021-08-16
+New South Wales,Richmond - Tweed,0.458,0.232,2021-08-16
 New South Wales,Riverina,0.498,0.264,2021-08-16
 New South Wales,Southern Highlands and Shoalhaven,0.581,0.312,2021-08-16
 New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.628,0.352,2021-08-16
 New South Wales,Sydney - Blacktown,0.536,0.273,2021-08-16
 New South Wales,Sydney - City and Inner South,0.459,0.267,2021-08-16
 New South Wales,Sydney - Eastern Suburbs,0.541,0.326,2021-08-16
-New South Wales,Murray,0.514,0.24,2021-08-16
-Queensland,Mackay - Isaac - Whitsunday,0.328,0.142,2021-08-16
-Victoria,Hume,0.557,0.281,2021-08-16
-Queensland,Moreton Bay - South,0.431,0.246,2021-08-16
+New South Wales,New England and North West,0.456,0.218,2021-08-16
+Queensland,Moreton Bay - North,0.452,0.253,2021-08-16
+Queensland,Brisbane - West,0.529,0.326,2021-08-16
+Queensland,Queensland - Outback,0.312,0.201,2021-08-16
 Victoria,Melbourne - Inner South,0.543,0.311,2021-08-16
 Victoria,Melbourne - North East,0.443,0.243,2021-08-16
 Victoria,Melbourne - North West,0.395,0.201,2021-08-16
@@ -228,7 +231,7 @@ Victoria,Melbourne - Outer East,0.491,0.256,2021-08-16
 Victoria,Melbourne - South East,0.413,0.217,2021-08-16
 Victoria,Melbourne - West,0.409,0.212,2021-08-16
 Victoria,Mornington Peninsula,0.533,0.284,2021-08-16
-Victoria,North West,0.509,0.27,2021-08-16
+Queensland,Moreton Bay - South,0.431,0.246,2021-08-16
 Victoria,Shepparton,0.511,0.26,2021-08-16
 Victoria,Warrnambool and South West,0.579,0.318,2021-08-16
 Western Australia,Bunbury,0.442,0.231,2021-08-16
@@ -241,11 +244,10 @@ Western Australia,Perth - South West,0.431,0.243,2021-08-16
 Western Australia,Western Australia - Wheat Belt,0.42,0.211,2021-08-16
 Western Australia,Western Australia - Outback (North),0.211,0.118,2021-08-16
 Victoria,Melbourne - Inner East,0.527,0.305,2021-08-16
-Queensland,Moreton Bay - North,0.452,0.253,2021-08-16
 Victoria,Melbourne - Inner,0.427,0.253,2021-08-16
-Australian Capital Territory,Australian Capital Territory,0.532,0.299,2021-08-16
-Queensland,Queensland - Outback,0.312,0.201,2021-08-16
-Queensland,Sunshine Coast,0.487,0.279,2021-08-16
+Victoria,North West,0.509,0.27,2021-08-16
+Victoria,Hume,0.557,0.281,2021-08-16
+Victoria,Latrobe - Gippsland,0.533,0.284,2021-08-16
 Queensland,Toowoomba,0.435,0.239,2021-08-16
 Queensland,Townsville,0.418,0.249,2021-08-16
 Queensland,Wide Bay,0.459,0.244,2021-08-16
@@ -254,7 +256,8 @@ South Australia,Adelaide - North,0.398,0.209,2021-08-16
 South Australia,Adelaide - South,0.509,0.299,2021-08-16
 South Australia,Adelaide - West,0.411,0.224,2021-08-16
 South Australia,Barossa - Yorke - Mid North,0.428,0.214,2021-08-16
-South Australia,South Australia - Outback,0.406,0.231,2021-08-16
+Queensland,Sunshine Coast,0.487,0.279,2021-08-16
+Victoria,Geelong,0.565,0.339,2021-08-16
 South Australia,South Australia - South East,0.425,0.223,2021-08-16
 Tasmania,Hobart,0.55,0.345,2021-08-16
 Tasmania,Launceston and North East,0.551,0.345,2021-08-16
@@ -262,127 +265,120 @@ Tasmania,South East,0.503,0.291,2021-08-16
 Tasmania,West and North West,0.482,0.265,2021-08-16
 Victoria,Ballarat,0.53,0.307,2021-08-16
 Victoria,Bendigo,0.574,0.33,2021-08-16
-Victoria,Geelong,0.565,0.339,2021-08-16
-Victoria,Latrobe - Gippsland,0.533,0.284,2021-08-16
-Western Australia,Western Australia - Outback (South),0.344,0.178,2021-08-16
-Other Territories,Other Territories,0.474,0.287,2021-08-16
-New South Wales,Capital Region,0.585,0.312,2021-08-23
-Victoria,Latrobe - Gippsland,0.563,0.33,2021-08-23
-Victoria,Hume,0.594,0.334,2021-08-23
-Victoria,Geelong,0.614,0.386,2021-08-23
-Victoria,Bendigo,0.611,0.382,2021-08-23
-Victoria,Ballarat,0.564,0.354,2021-08-23
-Tasmania,West and North West,0.507,0.304,2021-08-23
-Tasmania,South East,0.524,0.343,2021-08-23
-Tasmania,Launceston and North East,0.586,0.386,2021-08-23
-Victoria,Melbourne - Inner,0.468,0.29,2021-08-23
-Tasmania,Hobart,0.573,0.393,2021-08-23
-South Australia,South Australia - Outback,0.45,0.27,2021-08-23
-South Australia,Barossa - Yorke - Mid North,0.525,0.288,2021-08-23
-South Australia,Adelaide - West,0.445,0.257,2021-08-23
-South Australia,Adelaide - South,0.541,0.342,2021-08-23
-South Australia,Adelaide - North,0.427,0.245,2021-08-23
-South Australia,Adelaide - Central and Hills,0.556,0.349,2021-08-23
-Queensland,Wide Bay,0.493,0.273,2021-08-23
-Queensland,Townsville,0.463,0.287,2021-08-23
-South Australia,South Australia - South East,0.5,0.284,2021-08-23
-Victoria,Melbourne - Inner East,0.564,0.354,2021-08-23
-Victoria,Melbourne - Inner South,0.585,0.363,2021-08-23
-Victoria,Melbourne - North East,0.476,0.285,2021-08-23
-Other Territories,Other Territories,0.513,0.37,2021-08-23
-Western Australia,Western Australia - Outback (South),0.383,0.21,2021-08-23
-Western Australia,Western Australia - Outback (North),0.233,0.137,2021-08-23
-Western Australia,Western Australia - Wheat Belt,0.466,0.258,2021-08-23
-Western Australia,Perth - South West,0.475,0.284,2021-08-23
-Western Australia,Perth - South East,0.438,0.255,2021-08-23
-Western Australia,Perth - North West,0.483,0.288,2021-08-23
-Western Australia,Perth - North East,0.423,0.244,2021-08-23
-Western Australia,Perth - Inner,0.598,0.396,2021-08-23
-Western Australia,Mandurah,0.473,0.275,2021-08-23
-Western Australia,Bunbury,0.476,0.267,2021-08-23
-Victoria,Warrnambool and South West,0.608,0.361,2021-08-23
-Victoria,Shepparton,0.551,0.308,2021-08-23
-Victoria,North West,0.542,0.315,2021-08-23
-Victoria,Mornington Peninsula,0.569,0.332,2021-08-23
-Victoria,Melbourne - West,0.456,0.245,2021-08-23
-Victoria,Melbourne - South East,0.453,0.256,2021-08-23
-Victoria,Melbourne - Outer East,0.53,0.305,2021-08-23
-Victoria,Melbourne - North West,0.431,0.236,2021-08-23
-Queensland,Toowoomba,0.481,0.282,2021-08-23
-Australian Capital Territory,Australian Capital Territory,0.59,0.361,2021-08-23
-Queensland,Sunshine Coast,0.522,0.316,2021-08-23
-Queensland,Moreton Bay - South,0.474,0.282,2021-08-23
-New South Wales,Sydney - Inner South West,0.563,0.268,2021-08-23
-New South Wales,Sydney - Eastern Suburbs,0.59,0.366,2021-08-23
-New South Wales,Sydney - City and Inner South,0.51,0.3,2021-08-23
-New South Wales,Sydney - Blacktown,0.648,0.315,2021-08-23
-New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.7,0.404,2021-08-23
-New South Wales,Southern Highlands and Shoalhaven,0.633,0.364,2021-08-23
-New South Wales,Riverina,0.546,0.309,2021-08-23
-New South Wales,Richmond - Tweed,0.513,0.273,2021-08-23
-New South Wales,Sydney - Inner West,0.602,0.351,2021-08-23
-New South Wales,Newcastle and Lake Macquarie,0.559,0.297,2021-08-23
-New South Wales,Murray,0.565,0.287,2021-08-23
-New South Wales,Mid North Coast,0.58,0.305,2021-08-23
-New South Wales,Illawarra,0.564,0.327,2021-08-23
-New South Wales,Hunter Valley exc Newcastle,0.514,0.254,2021-08-23
-New South Wales,Far West and Orana,0.516,0.229,2021-08-23
-New South Wales,Coffs Harbour - Grafton,0.529,0.259,2021-08-23
-New South Wales,Central West,0.531,0.28,2021-08-23
-New South Wales,Central Coast,0.609,0.321,2021-08-23
-New South Wales,New England and North West,0.519,0.253,2021-08-23
-New South Wales,Sydney - Northern Beaches,0.663,0.358,2021-08-23
-New South Wales,Sydney - Outer South West,0.605,0.304,2021-08-23
-New South Wales,Sydney - Outer West and Blue Mountains,0.602,0.292,2021-08-23
-Queensland,Moreton Bay - North,0.486,0.286,2021-08-23
-Queensland,Mackay - Isaac - Whitsunday,0.367,0.171,2021-08-23
-Queensland,Logan - Beaudesert,0.369,0.208,2021-08-23
-Queensland,Ipswich,0.406,0.238,2021-08-23
-Queensland,Gold Coast,0.435,0.272,2021-08-23
-Queensland,Central Queensland,0.389,0.225,2021-08-23
-Queensland,Darling Downs - Maranoa,0.467,0.257,2021-08-23
-Queensland,Cairns,0.49,0.305,2021-08-23
-Queensland,Brisbane Inner City,0.52,0.332,2021-08-23
-Queensland,Brisbane - West,0.576,0.367,2021-08-23
-Queensland,Brisbane - South,0.486,0.302,2021-08-23
-Queensland,Brisbane - North,0.521,0.322,2021-08-23
-Queensland,Brisbane - East,0.51,0.286,2021-08-23
-Northern Territory,Northern Territory - Outback,0.418,0.291,2021-08-23
+South Australia,South Australia - Outback,0.406,0.231,2021-08-16
 Northern Territory,Darwin,0.56,0.358,2021-08-23
 New South Wales,Sydney - Sutherland,0.678,0.375,2021-08-23
 New South Wales,Sydney - South West,0.563,0.264,2021-08-23
-New South Wales,Sydney - Ryde,0.636,0.372,2021-08-23
+New South Wales,Sydney - Outer South West,0.605,0.304,2021-08-23
 New South Wales,Sydney - Parramatta,0.581,0.285,2021-08-23
-Queensland,Queensland - Outback,0.399,0.252,2021-08-23
+New South Wales,Sydney - Outer West and Blue Mountains,0.602,0.292,2021-08-23
+Northern Territory,Northern Territory - Outback,0.418,0.291,2021-08-23
+New South Wales,Sydney - Ryde,0.636,0.372,2021-08-23
+Queensland,Brisbane - East,0.51,0.286,2021-08-23
+Queensland,Cairns,0.49,0.305,2021-08-23
+Queensland,Brisbane - South,0.486,0.302,2021-08-23
+Queensland,Brisbane - West,0.576,0.367,2021-08-23
+Queensland,Brisbane Inner City,0.52,0.332,2021-08-23
+Queensland,Darling Downs - Maranoa,0.467,0.257,2021-08-23
+Queensland,Central Queensland,0.389,0.225,2021-08-23
+Queensland,Gold Coast,0.435,0.272,2021-08-23
+Queensland,Ipswich,0.406,0.238,2021-08-23
+Queensland,Logan - Beaudesert,0.369,0.208,2021-08-23
+Queensland,Brisbane - North,0.521,0.322,2021-08-23
+New South Wales,Sydney - Northern Beaches,0.663,0.358,2021-08-23
+Queensland,Mackay - Isaac - Whitsunday,0.367,0.171,2021-08-23
+New South Wales,Sydney - Inner West,0.602,0.351,2021-08-23
+New South Wales,Capital Region,0.585,0.312,2021-08-23
+New South Wales,Central Coast,0.609,0.321,2021-08-23
+New South Wales,Central West,0.531,0.28,2021-08-23
+New South Wales,Coffs Harbour - Grafton,0.529,0.259,2021-08-23
+New South Wales,Far West and Orana,0.516,0.229,2021-08-23
+New South Wales,Hunter Valley exc Newcastle,0.514,0.254,2021-08-23
+New South Wales,Illawarra,0.564,0.327,2021-08-23
+New South Wales,Mid North Coast,0.58,0.305,2021-08-23
+New South Wales,Murray,0.565,0.287,2021-08-23
+New South Wales,New England and North West,0.519,0.253,2021-08-23
+New South Wales,Newcastle and Lake Macquarie,0.559,0.297,2021-08-23
+New South Wales,Richmond - Tweed,0.513,0.273,2021-08-23
+New South Wales,Riverina,0.546,0.309,2021-08-23
+New South Wales,Southern Highlands and Shoalhaven,0.633,0.364,2021-08-23
+New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.7,0.404,2021-08-23
+New South Wales,Sydney - Blacktown,0.648,0.315,2021-08-23
+New South Wales,Sydney - City and Inner South,0.51,0.3,2021-08-23
+New South Wales,Sydney - Eastern Suburbs,0.59,0.366,2021-08-23
+New South Wales,Sydney - Inner South West,0.563,0.268,2021-08-23
 New South Wales,Sydney - North Sydney and Hornsby,0.685,0.425,2021-08-23
+Queensland,Moreton Bay - North,0.486,0.286,2021-08-23
+Western Australia,Western Australia - Outback (South),0.383,0.21,2021-08-23
+Queensland,Queensland - Outback,0.399,0.252,2021-08-23
+Victoria,Melbourne - North East,0.476,0.285,2021-08-23
+Victoria,Melbourne - North West,0.431,0.236,2021-08-23
+Victoria,Melbourne - Outer East,0.53,0.305,2021-08-23
+Victoria,Melbourne - South East,0.453,0.256,2021-08-23
+Victoria,Melbourne - West,0.456,0.245,2021-08-23
+Victoria,Mornington Peninsula,0.569,0.332,2021-08-23
+Victoria,North West,0.542,0.315,2021-08-23
+Victoria,Shepparton,0.551,0.308,2021-08-23
+Victoria,Warrnambool and South West,0.608,0.361,2021-08-23
+Western Australia,Bunbury,0.476,0.267,2021-08-23
+Western Australia,Mandurah,0.473,0.275,2021-08-23
+Western Australia,Perth - Inner,0.598,0.396,2021-08-23
+Western Australia,Perth - North East,0.423,0.244,2021-08-23
+Western Australia,Perth - North West,0.483,0.288,2021-08-23
+Western Australia,Perth - South East,0.438,0.255,2021-08-23
+Western Australia,Perth - South West,0.475,0.284,2021-08-23
+Western Australia,Western Australia - Wheat Belt,0.466,0.258,2021-08-23
+Western Australia,Western Australia - Outback (North),0.233,0.137,2021-08-23
+Australian Capital Territory,Australian Capital Territory,0.59,0.361,2021-08-23
+Victoria,Melbourne - Inner South,0.585,0.363,2021-08-23
+Queensland,Moreton Bay - South,0.474,0.282,2021-08-23
+Victoria,Melbourne - Inner East,0.564,0.354,2021-08-23
+Victoria,Latrobe - Gippsland,0.563,0.33,2021-08-23
+Queensland,Sunshine Coast,0.522,0.316,2021-08-23
+Queensland,Toowoomba,0.481,0.282,2021-08-23
+Queensland,Townsville,0.463,0.287,2021-08-23
+Queensland,Wide Bay,0.493,0.273,2021-08-23
+South Australia,Adelaide - Central and Hills,0.556,0.349,2021-08-23
+South Australia,Adelaide - North,0.427,0.245,2021-08-23
+South Australia,Adelaide - South,0.541,0.342,2021-08-23
+South Australia,Adelaide - West,0.445,0.257,2021-08-23
+South Australia,Barossa - Yorke - Mid North,0.525,0.288,2021-08-23
+South Australia,South Australia - Outback,0.45,0.27,2021-08-23
+South Australia,South Australia - South East,0.5,0.284,2021-08-23
+Tasmania,Hobart,0.573,0.393,2021-08-23
+Tasmania,Launceston and North East,0.586,0.386,2021-08-23
+Tasmania,South East,0.524,0.343,2021-08-23
+Tasmania,West and North West,0.507,0.304,2021-08-23
+Victoria,Ballarat,0.564,0.354,2021-08-23
+Victoria,Bendigo,0.611,0.382,2021-08-23
+Victoria,Geelong,0.614,0.386,2021-08-23
+Victoria,Hume,0.594,0.334,2021-08-23
+Victoria,Melbourne - Inner,0.468,0.29,2021-08-23
+Other Territories,Other Territories,0.513,0.37,2021-08-23
+New South Wales,Central Coast,0.662,0.362,2021-08-30
 Other Territories,Other Territories,0.617,0.471,2021-08-30
-Western Australia,Western Australia - Outback (North),0.256,0.151,2021-08-30
-New South Wales,Sydney - Outer South West,0.711,0.358,2021-08-30
-New South Wales,Sydney - Outer West and Blue Mountains,0.697,0.341,2021-08-30
 New South Wales,Sydney - Parramatta,0.693,0.329,2021-08-30
 New South Wales,Sydney - Ryde,0.711,0.422,2021-08-30
 New South Wales,Sydney - South West,0.679,0.315,2021-08-30
 New South Wales,Sydney - Sutherland,0.741,0.433,2021-08-30
 Northern Territory,Darwin,0.595,0.399,2021-08-30
 Northern Territory,Northern Territory - Outback,0.446,0.315,2021-08-30
-New South Wales,Sydney - Northern Beaches,0.725,0.412,2021-08-30
 Queensland,Brisbane - East,0.546,0.326,2021-08-30
+Queensland,Brisbane - North,0.563,0.358,2021-08-30
+New South Wales,Sydney - Outer West and Blue Mountains,0.697,0.341,2021-08-30
 Queensland,Brisbane - South,0.527,0.337,2021-08-30
-Queensland,Brisbane - West,0.621,0.407,2021-08-30
 Queensland,Brisbane Inner City,0.566,0.369,2021-08-30
 Queensland,Cairns,0.523,0.338,2021-08-30
 Queensland,Darling Downs - Maranoa,0.531,0.288,2021-08-30
 Queensland,Central Queensland,0.42,0.255,2021-08-30
 Queensland,Gold Coast,0.467,0.302,2021-08-30
 Queensland,Ipswich,0.441,0.267,2021-08-30
-Queensland,Brisbane - North,0.563,0.358,2021-08-30
-New South Wales,Sydney - Inner West,0.687,0.395,2021-08-30
-New South Wales,Sydney - Inner South West,0.663,0.314,2021-08-30
-New South Wales,Sydney - Eastern Suburbs,0.642,0.411,2021-08-30
-Western Australia,Western Australia - Outback (South),0.41,0.241,2021-08-30
-Australian Capital Territory,Australian Capital Territory,0.638,0.408,2021-08-30
-New South Wales,Capital Region,0.643,0.359,2021-08-30
-New South Wales,Central Coast,0.662,0.362,2021-08-30
+Queensland,Logan - Beaudesert,0.4,0.238,2021-08-30
+Queensland,Mackay - Isaac - Whitsunday,0.397,0.207,2021-08-30
+Queensland,Brisbane - West,0.621,0.407,2021-08-30
+Queensland,Moreton Bay - North,0.515,0.321,2021-08-30
+New South Wales,Sydney - Outer South West,0.711,0.358,2021-08-30
+New South Wales,Sydney - North Sydney and Hornsby,0.739,0.477,2021-08-30
 New South Wales,Central West,0.617,0.32,2021-08-30
 New South Wales,Coffs Harbour - Grafton,0.582,0.294,2021-08-30
 New South Wales,Far West and Orana,0.654,0.272,2021-08-30
@@ -391,83 +387,87 @@ New South Wales,Illawarra,0.619,0.37,2021-08-30
 New South Wales,Mid North Coast,0.639,0.347,2021-08-30
 New South Wales,Murray,0.612,0.337,2021-08-30
 New South Wales,New England and North West,0.587,0.293,2021-08-30
+New South Wales,Sydney - Northern Beaches,0.725,0.412,2021-08-30
 New South Wales,Newcastle and Lake Macquarie,0.617,0.34,2021-08-30
-New South Wales,Richmond - Tweed,0.565,0.311,2021-08-30
 New South Wales,Riverina,0.603,0.354,2021-08-30
 New South Wales,Southern Highlands and Shoalhaven,0.685,0.418,2021-08-30
 New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.781,0.46,2021-08-30
 New South Wales,Sydney - Blacktown,0.767,0.364,2021-08-30
 New South Wales,Sydney - City and Inner South,0.58,0.339,2021-08-30
-Queensland,Logan - Beaudesert,0.4,0.238,2021-08-30
-Queensland,Mackay - Isaac - Whitsunday,0.397,0.207,2021-08-30
-New South Wales,Sydney - North Sydney and Hornsby,0.739,0.477,2021-08-30
-Queensland,Moreton Bay - South,0.514,0.317,2021-08-30
-Victoria,Melbourne - Inner East,0.606,0.398,2021-08-30
-Victoria,Melbourne - Inner South,0.633,0.41,2021-08-30
-Victoria,Melbourne - North East,0.518,0.322,2021-08-30
+New South Wales,Sydney - Eastern Suburbs,0.642,0.411,2021-08-30
+New South Wales,Sydney - Inner South West,0.663,0.314,2021-08-30
+New South Wales,Sydney - Inner West,0.687,0.395,2021-08-30
+New South Wales,Richmond - Tweed,0.565,0.311,2021-08-30
+Australian Capital Territory,Australian Capital Territory,0.638,0.408,2021-08-30
+Queensland,Queensland - Outback,0.425,0.28,2021-08-30
+Queensland,Sunshine Coast,0.552,0.353,2021-08-30
 Victoria,Melbourne - North West,0.478,0.272,2021-08-30
 Victoria,Melbourne - Outer East,0.571,0.349,2021-08-30
 Victoria,Melbourne - South East,0.497,0.291,2021-08-30
 Victoria,Melbourne - West,0.506,0.281,2021-08-30
+Victoria,Mornington Peninsula,0.613,0.378,2021-08-30
 Victoria,North West,0.591,0.364,2021-08-30
 Victoria,Shepparton,0.607,0.356,2021-08-30
 Victoria,Warrnambool and South West,0.666,0.412,2021-08-30
+Victoria,Melbourne - North East,0.518,0.322,2021-08-30
 Western Australia,Bunbury,0.509,0.31,2021-08-30
-Western Australia,Mandurah,0.506,0.315,2021-08-30
 Western Australia,Perth - Inner,0.65,0.438,2021-08-30
 Western Australia,Perth - North East,0.458,0.281,2021-08-30
 Western Australia,Perth - North West,0.521,0.333,2021-08-30
 Western Australia,Perth - South East,0.482,0.294,2021-08-30
 Western Australia,Perth - South West,0.519,0.324,2021-08-30
-Queensland,Moreton Bay - North,0.515,0.321,2021-08-30
 Western Australia,Western Australia - Wheat Belt,0.494,0.298,2021-08-30
+Western Australia,Western Australia - Outback (North),0.256,0.151,2021-08-30
+Western Australia,Western Australia - Outback (South),0.41,0.241,2021-08-30
+Western Australia,Mandurah,0.506,0.315,2021-08-30
+Victoria,Melbourne - Inner South,0.633,0.41,2021-08-30
+Victoria,Melbourne - Inner East,0.606,0.398,2021-08-30
 Victoria,Melbourne - Inner,0.514,0.321,2021-08-30
-Victoria,Latrobe - Gippsland,0.603,0.379,2021-08-30
-Victoria,Mornington Peninsula,0.613,0.378,2021-08-30
-Queensland,Sunshine Coast,0.552,0.353,2021-08-30
-Queensland,Queensland - Outback,0.425,0.28,2021-08-30
-Victoria,Hume,0.638,0.383,2021-08-30
 Queensland,Toowoomba,0.515,0.317,2021-08-30
 Queensland,Townsville,0.494,0.32,2021-08-30
 Queensland,Wide Bay,0.525,0.314,2021-08-30
 South Australia,Adelaide - Central and Hills,0.588,0.396,2021-08-30
+South Australia,Adelaide - North,0.452,0.284,2021-08-30
 South Australia,Adelaide - South,0.571,0.386,2021-08-30
 South Australia,Adelaide - West,0.476,0.295,2021-08-30
 South Australia,Barossa - Yorke - Mid North,0.551,0.334,2021-08-30
-South Australia,Adelaide - North,0.452,0.284,2021-08-30
-South Australia,South Australia - South East,0.528,0.32,2021-08-30
-Victoria,Geelong,0.663,0.432,2021-08-30
 South Australia,South Australia - Outback,0.48,0.303,2021-08-30
-Victoria,Ballarat,0.611,0.401,2021-08-30
-Tasmania,West and North West,0.526,0.357,2021-08-30
-Victoria,Bendigo,0.652,0.431,2021-08-30
-Tasmania,Launceston and North East,0.615,0.427,2021-08-30
+South Australia,South Australia - South East,0.528,0.32,2021-08-30
 Tasmania,Hobart,0.612,0.439,2021-08-30
+Tasmania,Launceston and North East,0.615,0.427,2021-08-30
 Tasmania,South East,0.557,0.385,2021-08-30
-Queensland,Brisbane - East,0.58,0.367,2021-09-06
-New South Wales,Sydney - Outer West and Blue Mountains,0.785,0.388,2021-09-06
+Tasmania,West and North West,0.526,0.357,2021-08-30
+Victoria,Ballarat,0.611,0.401,2021-08-30
+Victoria,Bendigo,0.652,0.431,2021-08-30
+Victoria,Geelong,0.663,0.432,2021-08-30
+Victoria,Hume,0.638,0.383,2021-08-30
+Victoria,Latrobe - Gippsland,0.603,0.379,2021-08-30
+New South Wales,Capital Region,0.643,0.359,2021-08-30
+Queensland,Moreton Bay - South,0.514,0.317,2021-08-30
+Australian Capital Territory,Australian Capital Territory,0.691,0.462,2021-09-06
+New South Wales,Capital Region,0.7,0.414,2021-09-06
 New South Wales,Sydney - Parramatta,0.784,0.381,2021-09-06
 New South Wales,Sydney - Ryde,0.786,0.476,2021-09-06
 New South Wales,Sydney - South West,0.779,0.37,2021-09-06
 New South Wales,Sydney - Sutherland,0.814,0.49,2021-09-06
 Northern Territory,Darwin,0.631,0.44,2021-09-06
 Northern Territory,Northern Territory - Outback,0.464,0.336,2021-09-06
+Queensland,Brisbane - East,0.58,0.367,2021-09-06
 Queensland,Brisbane - North,0.599,0.396,2021-09-06
-Queensland,Logan - Beaudesert,0.43,0.266,2021-09-06
-Queensland,Brisbane - West,0.661,0.449,2021-09-06
+New South Wales,Sydney - Outer West and Blue Mountains,0.785,0.388,2021-09-06
+Queensland,Brisbane - South,0.563,0.375,2021-09-06
 Queensland,Brisbane Inner City,0.607,0.409,2021-09-06
 Queensland,Cairns,0.55,0.374,2021-09-06
 Queensland,Darling Downs - Maranoa,0.559,0.319,2021-09-06
 Queensland,Central Queensland,0.451,0.284,2021-09-06
 Queensland,Gold Coast,0.501,0.331,2021-09-06
 Queensland,Ipswich,0.476,0.298,2021-09-06
-New South Wales,Sydney - Outer South West,0.801,0.407,2021-09-06
-Queensland,Brisbane - South,0.563,0.375,2021-09-06
-New South Wales,Sydney - Northern Beaches,0.803,0.467,2021-09-06
-New South Wales,Capital Region,0.7,0.414,2021-09-06
-New South Wales,Sydney - Inner West,0.76,0.445,2021-09-06
+Queensland,Logan - Beaudesert,0.43,0.266,2021-09-06
 Queensland,Mackay - Isaac - Whitsunday,0.426,0.245,2021-09-06
-New South Wales,Central Coast,0.72,0.407,2021-09-06
+Queensland,Brisbane - West,0.661,0.449,2021-09-06
+Queensland,Moreton Bay - North,0.546,0.356,2021-09-06
+New South Wales,Sydney - Outer South West,0.801,0.407,2021-09-06
+New South Wales,Sydney - North Sydney and Hornsby,0.805,0.529,2021-09-06
 New South Wales,Central West,0.713,0.359,2021-09-06
 New South Wales,Coffs Harbour - Grafton,0.637,0.334,2021-09-06
 New South Wales,Far West and Orana,0.745,0.329,2021-09-06
@@ -476,8 +476,8 @@ New South Wales,Illawarra,0.672,0.413,2021-09-06
 New South Wales,Mid North Coast,0.693,0.391,2021-09-06
 New South Wales,Murray,0.668,0.381,2021-09-06
 New South Wales,New England and North West,0.64,0.335,2021-09-06
+New South Wales,Sydney - Northern Beaches,0.803,0.467,2021-09-06
 New South Wales,Newcastle and Lake Macquarie,0.669,0.386,2021-09-06
-New South Wales,Richmond - Tweed,0.611,0.348,2021-09-06
 New South Wales,Riverina,0.659,0.401,2021-09-06
 New South Wales,Southern Highlands and Shoalhaven,0.737,0.465,2021-09-06
 New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.862,0.517,2021-09-06
@@ -485,10 +485,11 @@ New South Wales,Sydney - Blacktown,0.861,0.418,2021-09-06
 New South Wales,Sydney - City and Inner South,0.649,0.379,2021-09-06
 New South Wales,Sydney - Eastern Suburbs,0.705,0.455,2021-09-06
 New South Wales,Sydney - Inner South West,0.747,0.367,2021-09-06
-New South Wales,Sydney - North Sydney and Hornsby,0.805,0.529,2021-09-06
-Queensland,Moreton Bay - North,0.546,0.356,2021-09-06
-Western Australia,Western Australia - Outback (South),0.441,0.269,2021-09-06
-Queensland,Queensland - Outback,0.453,0.3,2021-09-06
+New South Wales,Sydney - Inner West,0.76,0.445,2021-09-06
+New South Wales,Richmond - Tweed,0.611,0.348,2021-09-06
+New South Wales,Central Coast,0.72,0.407,2021-09-06
+Queensland,Moreton Bay - South,0.55,0.355,2021-09-06
+Queensland,Sunshine Coast,0.579,0.391,2021-09-06
 Victoria,Melbourne - North East,0.566,0.356,2021-09-06
 Victoria,Melbourne - North West,0.531,0.306,2021-09-06
 Victoria,Melbourne - Outer East,0.622,0.389,2021-09-06
@@ -497,8 +498,8 @@ Victoria,Melbourne - West,0.56,0.311,2021-09-06
 Victoria,Mornington Peninsula,0.657,0.421,2021-09-06
 Victoria,North West,0.652,0.402,2021-09-06
 Victoria,Shepparton,0.67,0.394,2021-09-06
+Victoria,Melbourne - Inner South,0.68,0.45,2021-09-06
 Victoria,Warrnambool and South West,0.717,0.459,2021-09-06
-Western Australia,Bunbury,0.546,0.346,2021-09-06
 Western Australia,Mandurah,0.541,0.345,2021-09-06
 Western Australia,Perth - Inner,0.695,0.477,2021-09-06
 Western Australia,Perth - North East,0.491,0.312,2021-09-06
@@ -507,12 +508,10 @@ Western Australia,Perth - South East,0.524,0.324,2021-09-06
 Western Australia,Perth - South West,0.564,0.358,2021-09-06
 Western Australia,Western Australia - Wheat Belt,0.531,0.332,2021-09-06
 Western Australia,Western Australia - Outback (North),0.28,0.167,2021-09-06
-Other Territories,Other Territories,0.656,0.487,2021-09-06
-Victoria,Melbourne - Inner South,0.68,0.45,2021-09-06
-Queensland,Moreton Bay - South,0.55,0.355,2021-09-06
+Western Australia,Bunbury,0.546,0.346,2021-09-06
+Queensland,Queensland - Outback,0.453,0.3,2021-09-06
 Victoria,Melbourne - Inner East,0.657,0.436,2021-09-06
 Victoria,Latrobe - Gippsland,0.648,0.423,2021-09-06
-Queensland,Sunshine Coast,0.579,0.391,2021-09-06
 Queensland,Toowoomba,0.538,0.355,2021-09-06
 Queensland,Townsville,0.525,0.357,2021-09-06
 Queensland,Wide Bay,0.551,0.348,2021-09-06
@@ -521,8 +520,8 @@ South Australia,Adelaide - North,0.483,0.32,2021-09-06
 South Australia,Adelaide - South,0.604,0.426,2021-09-06
 South Australia,Adelaide - West,0.512,0.326,2021-09-06
 South Australia,Barossa - Yorke - Mid North,0.58,0.381,2021-09-06
+Victoria,Melbourne - Inner,0.564,0.348,2021-09-06
 South Australia,South Australia - Outback,0.514,0.335,2021-09-06
-South Australia,South Australia - South East,0.557,0.354,2021-09-06
 Tasmania,Hobart,0.667,0.475,2021-09-06
 Tasmania,Launceston and North East,0.64,0.474,2021-09-06
 Tasmania,South East,0.595,0.421,2021-09-06
@@ -531,5 +530,184 @@ Victoria,Ballarat,0.659,0.444,2021-09-06
 Victoria,Bendigo,0.697,0.472,2021-09-06
 Victoria,Geelong,0.713,0.477,2021-09-06
 Victoria,Hume,0.685,0.429,2021-09-06
-Victoria,Melbourne - Inner,0.564,0.348,2021-09-06
-Australian Capital Territory,Australian Capital Territory,0.691,0.462,2021-09-06
+South Australia,South Australia - South East,0.557,0.354,2021-09-06
+Western Australia,Western Australia - Outback (South),0.441,0.269,2021-09-06
+Other Territories,Other Territories,0.656,0.487,2021-09-06
+New South Wales,Capital Region,0.755,0.465,2021-09-13
+Victoria,Geelong,0.77,0.513,2021-09-13
+Victoria,Bendigo,0.754,0.508,2021-09-13
+Victoria,Ballarat,0.71,0.473,2021-09-13
+Tasmania,West and North West,0.582,0.435,2021-09-13
+Tasmania,South East,0.635,0.454,2021-09-13
+Tasmania,Launceston and North East,0.663,0.51,2021-09-13
+Tasmania,Hobart,0.714,0.5,2021-09-13
+South Australia,South Australia - South East,0.589,0.386,2021-09-13
+Victoria,Hume,0.738,0.471,2021-09-13
+South Australia,South Australia - Outback,0.545,0.371,2021-09-13
+South Australia,Adelaide - West,0.557,0.357,2021-09-13
+South Australia,Adelaide - South,0.643,0.46,2021-09-13
+South Australia,Adelaide - North,0.518,0.351,2021-09-13
+South Australia,Adelaide - Central and Hills,0.67,0.468,2021-09-13
+Queensland,Wide Bay,0.58,0.388,2021-09-13
+Queensland,Townsville,0.556,0.391,2021-09-13
+Queensland,Toowoomba,0.575,0.39,2021-09-13
+Queensland,Sunshine Coast,0.611,0.426,2021-09-13
+South Australia,Barossa - Yorke - Mid North,0.61,0.421,2021-09-13
+Victoria,Latrobe - Gippsland,0.702,0.461,2021-09-13
+Victoria,Melbourne - Inner,0.618,0.373,2021-09-13
+Victoria,Melbourne - Inner East,0.717,0.469,2021-09-13
+Western Australia,Western Australia - Outback (North),0.308,0.186,2021-09-13
+Western Australia,Western Australia - Wheat Belt,0.565,0.37,2021-09-13
+Western Australia,Perth - South West,0.595,0.399,2021-09-13
+Western Australia,Perth - South East,0.559,0.362,2021-09-13
+Western Australia,Perth - North West,0.599,0.411,2021-09-13
+Western Australia,Perth - North East,0.535,0.347,2021-09-13
+Western Australia,Perth - Inner,0.725,0.522,2021-09-13
+Western Australia,Mandurah,0.574,0.385,2021-09-13
+Western Australia,Bunbury,0.58,0.386,2021-09-13
+Victoria,Warrnambool and South West,0.776,0.499,2021-09-13
+Victoria,Shepparton,0.744,0.43,2021-09-13
+Victoria,North West,0.715,0.44,2021-09-13
+Victoria,Mornington Peninsula,0.711,0.457,2021-09-13
+Victoria,Melbourne - West,0.628,0.34,2021-09-13
+Victoria,Melbourne - South East,0.619,0.352,2021-09-13
+Victoria,Melbourne - Outer East,0.686,0.425,2021-09-13
+Victoria,Melbourne - North West,0.594,0.336,2021-09-13
+Victoria,Melbourne - North East,0.626,0.386,2021-09-13
+Victoria,Melbourne - Inner South,0.736,0.483,2021-09-13
+Queensland,Queensland - Outback,0.472,0.338,2021-09-13
+Australian Capital Territory,Australian Capital Territory,0.749,0.512,2021-09-13
+Other Territories,Other Territories,0.689,0.542,2021-09-13
+Queensland,Moreton Bay - North,0.577,0.388,2021-09-13
+New South Wales,Sydney - Inner South West,0.794,0.43,2021-09-13
+New South Wales,Sydney - Eastern Suburbs,0.743,0.502,2021-09-13
+New South Wales,Sydney - City and Inner South,0.69,0.425,2021-09-13
+New South Wales,Sydney - Blacktown,0.898,0.49,2021-09-13
+New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.908,0.578,2021-09-13
+New South Wales,Southern Highlands and Shoalhaven,0.783,0.511,2021-09-13
+New South Wales,Riverina,0.721,0.447,2021-09-13
+New South Wales,Richmond - Tweed,0.654,0.388,2021-09-13
+New South Wales,Sydney - Inner West,0.793,0.497,2021-09-13
+New South Wales,Newcastle and Lake Macquarie,0.724,0.431,2021-09-13
+New South Wales,Murray,0.722,0.432,2021-09-13
+New South Wales,Mid North Coast,0.743,0.439,2021-09-13
+New South Wales,Illawarra,0.723,0.459,2021-09-13
+New South Wales,Hunter Valley exc Newcastle,0.698,0.386,2021-09-13
+New South Wales,Far West and Orana,0.817,0.409,2021-09-13
+New South Wales,Coffs Harbour - Grafton,0.685,0.379,2021-09-13
+New South Wales,Central West,0.799,0.411,2021-09-13
+New South Wales,Central Coast,0.775,0.455,2021-09-13
+New South Wales,New England and North West,0.694,0.381,2021-09-13
+New South Wales,Sydney - North Sydney and Hornsby,0.843,0.577,2021-09-13
+New South Wales,Sydney - Northern Beaches,0.846,0.524,2021-09-13
+New South Wales,Sydney - Outer South West,0.848,0.469,2021-09-13
+Queensland,Mackay - Isaac - Whitsunday,0.458,0.278,2021-09-13
+Queensland,Logan - Beaudesert,0.466,0.296,2021-09-13
+Queensland,Ipswich,0.515,0.328,2021-09-13
+Queensland,Gold Coast,0.536,0.359,2021-09-13
+Queensland,Central Queensland,0.483,0.313,2021-09-13
+Queensland,Darling Downs - Maranoa,0.592,0.375,2021-09-13
+Queensland,Cairns,0.584,0.408,2021-09-13
+Queensland,Brisbane Inner City,0.641,0.452,2021-09-13
+Queensland,Brisbane - West,0.694,0.494,2021-09-13
+Queensland,Brisbane - South,0.598,0.414,2021-09-13
+Queensland,Brisbane - North,0.636,0.436,2021-09-13
+Queensland,Brisbane - East,0.611,0.411,2021-09-13
+Northern Territory,Northern Territory - Outback,0.48,0.357,2021-09-13
+Northern Territory,Darwin,0.667,0.487,2021-09-13
+New South Wales,Sydney - Sutherland,0.853,0.555,2021-09-13
+New South Wales,Sydney - South West,0.824,0.435,2021-09-13
+New South Wales,Sydney - Ryde,0.829,0.528,2021-09-13
+New South Wales,Sydney - Parramatta,0.824,0.444,2021-09-13
+New South Wales,Sydney - Outer West and Blue Mountains,0.825,0.453,2021-09-13
+Queensland,Moreton Bay - South,0.587,0.395,2021-09-13
+Western Australia,Western Australia - Outback (South),0.47,0.3,2021-09-13
+Queensland,Moreton Bay - North,0.618,0.418,2021-09-20
+New South Wales,Capital Region,0.809,0.522,2021-09-20
+Victoria,Latrobe - Gippsland,0.757,0.496,2021-09-20
+Victoria,Hume,0.79,0.508,2021-09-20
+Victoria,Geelong,0.82,0.542,2021-09-20
+Victoria,Bendigo,0.807,0.546,2021-09-20
+Victoria,Ballarat,0.767,0.507,2021-09-20
+Tasmania,West and North West,0.641,0.458,2021-09-20
+Tasmania,South East,0.682,0.488,2021-09-20
+Tasmania,Launceston and North East,0.69,0.542,2021-09-20
+Victoria,Melbourne - Inner,0.659,0.399,2021-09-20
+Tasmania,Hobart,0.771,0.545,2021-09-20
+South Australia,South Australia - Outback,0.579,0.404,2021-09-20
+South Australia,Barossa - Yorke - Mid North,0.639,0.459,2021-09-20
+South Australia,Adelaide - West,0.593,0.395,2021-09-20
+South Australia,Adelaide - South,0.675,0.496,2021-09-20
+South Australia,Adelaide - North,0.556,0.381,2021-09-20
+South Australia,Adelaide - Central and Hills,0.704,0.508,2021-09-20
+Queensland,Wide Bay,0.614,0.424,2021-09-20
+Queensland,Townsville,0.59,0.425,2021-09-20
+South Australia,South Australia - South East,0.626,0.418,2021-09-20
+Queensland,Toowoomba,0.612,0.421,2021-09-20
+Victoria,Melbourne - Inner East,0.767,0.502,2021-09-20
+Victoria,Melbourne - North East,0.688,0.414,2021-09-20
+Western Australia,Western Australia - Outback (South),0.505,0.329,2021-09-20
+Western Australia,Western Australia - Outback (North),0.332,0.204,2021-09-20
+Western Australia,Western Australia - Wheat Belt,0.6,0.4,2021-09-20
+Western Australia,Perth - South West,0.621,0.436,2021-09-20
+Western Australia,Perth - South East,0.587,0.4,2021-09-20
+Western Australia,Perth - North West,0.627,0.448,2021-09-20
+Western Australia,Perth - North East,0.572,0.381,2021-09-20
+Western Australia,Perth - Inner,0.745,0.565,2021-09-20
+Victoria,Melbourne - Inner South,0.78,0.516,2021-09-20
+Western Australia,Mandurah,0.604,0.418,2021-09-20
+Victoria,Warrnambool and South West,0.832,0.535,2021-09-20
+Victoria,Shepparton,0.81,0.47,2021-09-20
+Victoria,North West,0.774,0.48,2021-09-20
+Victoria,Mornington Peninsula,0.76,0.491,2021-09-20
+Victoria,Melbourne - West,0.697,0.371,2021-09-20
+Victoria,Melbourne - South East,0.693,0.381,2021-09-20
+Victoria,Melbourne - Outer East,0.744,0.459,2021-09-20
+Victoria,Melbourne - North West,0.673,0.366,2021-09-20
+Western Australia,Bunbury,0.613,0.422,2021-09-20
+Queensland,Sunshine Coast,0.642,0.458,2021-09-20
+Queensland,Queensland - Outback,0.496,0.37,2021-09-20
+Queensland,Moreton Bay - South,0.628,0.432,2021-09-20
+New South Wales,Sydney - Inner South West,0.824,0.502,2021-09-20
+New South Wales,Sydney - Eastern Suburbs,0.768,0.554,2021-09-20
+New South Wales,Sydney - City and Inner South,0.714,0.484,2021-09-20
+New South Wales,Sydney - Blacktown,0.926,0.574,2021-09-20
+New South Wales,Sydney - Baulkham Hills and Hawkesbury,0.94,0.658,2021-09-20
+New South Wales,Southern Highlands and Shoalhaven,0.831,0.564,2021-09-20
+New South Wales,Riverina,0.777,0.493,2021-09-20
+New South Wales,Richmond - Tweed,0.704,0.427,2021-09-20
+New South Wales,Sydney - Inner West,0.814,0.563,2021-09-20
+New South Wales,Newcastle and Lake Macquarie,0.775,0.483,2021-09-20
+New South Wales,Murray,0.779,0.479,2021-09-20
+New South Wales,Mid North Coast,0.791,0.487,2021-09-20
+New South Wales,Illawarra,0.776,0.514,2021-09-20
+New South Wales,Hunter Valley exc Newcastle,0.757,0.433,2021-09-20
+New South Wales,Far West and Orana,0.858,0.531,2021-09-20
+New South Wales,Coffs Harbour - Grafton,0.737,0.425,2021-09-20
+New South Wales,Central West,0.848,0.483,2021-09-20
+New South Wales,Central Coast,0.818,0.515,2021-09-20
+New South Wales,New England and North West,0.751,0.44,2021-09-20
+New South Wales,Sydney - North Sydney and Hornsby,0.87,0.642,2021-09-20
+New South Wales,Sydney - Northern Beaches,0.875,0.6,2021-09-20
+New South Wales,Sydney - Outer South West,0.883,0.543,2021-09-20
+Queensland,Mackay - Isaac - Whitsunday,0.496,0.312,2021-09-20
+Queensland,Logan - Beaudesert,0.511,0.322,2021-09-20
+Queensland,Ipswich,0.554,0.359,2021-09-20
+Queensland,Gold Coast,0.573,0.39,2021-09-20
+Queensland,Central Queensland,0.515,0.345,2021-09-20
+Queensland,Darling Downs - Maranoa,0.624,0.413,2021-09-20
+Queensland,Cairns,0.617,0.444,2021-09-20
+Queensland,Brisbane Inner City,0.675,0.495,2021-09-20
+Queensland,Brisbane - West,0.726,0.538,2021-09-20
+Queensland,Brisbane - South,0.637,0.452,2021-09-20
+Queensland,Brisbane - North,0.681,0.479,2021-09-20
+Queensland,Brisbane - East,0.646,0.446,2021-09-20
+Northern Territory,Northern Territory - Outback,0.499,0.38,2021-09-20
+Northern Territory,Darwin,0.698,0.529,2021-09-20
+New South Wales,Sydney - Sutherland,0.885,0.626,2021-09-20
+New South Wales,Sydney - South West,0.862,0.522,2021-09-20
+New South Wales,Sydney - Ryde,0.858,0.599,2021-09-20
+New South Wales,Sydney - Parramatta,0.851,0.517,2021-09-20
+New South Wales,Sydney - Outer West and Blue Mountains,0.857,0.528,2021-09-20
+Australian Capital Territory,Australian Capital Territory,0.809,0.561,2021-09-20
+Other Territories,Other Territories,0.697,0.571,2021-09-20
